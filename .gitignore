@@ -4,10 +4,13 @@
 /public/hot
 /public/storage
 /storage/*.key
+/storage/pail
 /vendor
 .env
+kesuma-go.sql
 .env.backup
 .env.production
+.phpactor.json
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -16,4 +19,6 @@ npm-debug.log
 yarn-error.log
 /.fleet
 /.idea
+/.nova
 /.vscode
+/.zed
